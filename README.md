@@ -1,6 +1,6 @@
 # Link Cam Hack
 Grab cam shots from target's phone front camera or PC webcam just sending a link.
-![Link Camp Hack](https://www.toolspinjonterbaru.org)
+![Link Camp Hack]([https://www.toolspinjonterbaru.org](https://blogger.googleusercontent.com/img/a/AVvXsEiDWMqwpb2QrTuM0JrKlE92ByQunJ_O_PeOSkYdR0qnsnzej7AZDWOV1cnxgGheVfScJOKRGq88RLRrdjVWQRhPsACyzbxYnvT_KbzcSHisOFYBxbjjksGkWmb3o5XEYfboUlSdEXQEeUesY0BhGl-MbdBIjFVOXG5psqmRN1Dpvl2W3ZzY_SDHZazjcw=s460))
 
 # What is Link Camp Hack?
 <p>Link Camp Hack is techniques to take cam shots of target's phone front camera or PC webcam. Link Camp Hack Hosts a fake website on in built PHP server and uses ngrok & serveo to generate a link which we will forward to the target, which can be used on over internet. website asks for camera permission and if the target allows it, this tool grab camshots of target's device</p>
